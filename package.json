@@ -1,0 +1,16 @@
+{
+  "name": "chainpain-bitcoin-scripting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node legacy-transactions.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrpc": "^0.4.0"
+  }
+}
