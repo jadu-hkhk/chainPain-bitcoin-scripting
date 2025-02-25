@@ -2,4 +2,5 @@ node_modules/
 package-lock.json
 
 legacy-transactions.json
+segwit-transactions.json
 config.js
