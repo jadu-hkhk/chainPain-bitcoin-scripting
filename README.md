@@ -12,7 +12,7 @@ This project demonstrates Legacy (P2PKH) and SegWit (P2SH-P2WPKH) Bitcoin transa
 
 1. Clone this repository
 2. Run `npm install`
-3. Create a `src/config.js` file with your Bitcoin RPC credentials
+3. Update `src/config.js` file with your Bitcoin RPC credentials
 4. Ensure Bitcoin Core is running in regtest mode
 
 ## Usage
@@ -37,6 +37,7 @@ npm run segwit
 - `src/legacyTransactions.js`: Legacy transaction implementation
 - `src/segwitTransactions.js`: SegWit transaction implementation
 - `Txn_Outputs/`: Transaction data storage
+- `Report.pdf`: Analysis Report
 
 The detailed report with our analysis is included as a PDF in this repository.
 
